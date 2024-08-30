@@ -12,7 +12,7 @@
 
 # 1
 ###############################
-# How To Install PHP 8.3
+## How To Install PHP 8.3
 ###############################
 
 sudo add-apt-repository ppa:ondrej/php
@@ -28,7 +28,7 @@ sudo systemctl restart apache2
 
 # 2
 ###############################
-# How To Install Composer
+## How To Install Composer
 ###############################
 
 sudo apt update
@@ -56,7 +56,7 @@ php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
 # 3 
 ###############################
-# MySQL Installation guide
+## MySQL Installation guide
 ###############################
 
 sudo apt update
@@ -84,7 +84,7 @@ exit
 
 # 4 
 ###############################
-# How To Install NGINX Server
+## How To Install NGINX Server
 ###############################
 
 sudo apt update
@@ -98,7 +98,7 @@ sudo systemctl restart nginx
 
 # 5
 ###############################
-# How To Install Apache Server
+## How To Install Apache Server
 ###############################
 
 sudo apt update
@@ -112,7 +112,7 @@ sudo systemctl restart apache2 -y
 
 # 6 
 ###############################
-# How To Install Laravel
+## How To Install Laravel
 ###############################
 
 composer create-project laravel/laravel example-app
