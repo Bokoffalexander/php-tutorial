@@ -1,9 +1,14 @@
-[1 # How To Install PHP 8.3](# 1 # How To Install PHP 8.3)
-[2 # How To Install Composer](# 2 # How To Install Composer)
-[3 # MySQL Installation guide](# 3 # MySQL Installation guide)
-[4 # How To Install NGINX Server](# 4 # How To Install NGINX Server)
-[5 # How To Install Apache Server](# 5 # How To Install Apache Server)
-[6 # How To Install Laravel](# 6 # How To Install Laravel)
+[1 # How To Install PHP 8.3](#-1-#-how-to-install-php-8.3)
+
+[2 # How To Install Composer](#-2-#-How-To-Install-Composer)
+
+[3 # MySQL Installation guide](#-3-#-MySQL-Installation-guide)
+
+[4 # How To Install NGINX Server](#-4-#-How-To-Install-NGINX-Server)
+
+[5 # How To Install Apache Server](#-5-#-How-To-Install-Apache-Server)
+
+[6 # How To Install Laravel](#-6-#-How-To-Install-Laravel)
 
 ###############################
 
