@@ -1,20 +1,19 @@
 [1 # How To Install PHP 8.3](#1)
 
-[2 # How To Install Composer](#2-how-to-install-composer)
+[2 # How To Install Composer](#2)
 
-[3 # MySQL Installation guide](#3-#-MySQL-Installation-guide)
+[3 # MySQL Installation guide](#3)
 
-[4 # How To Install NGINX Server](#4-#-How-To-Install-NGINX-Server)
+[4 # How To Install NGINX Server](#4)
 
-[5 # How To Install Apache Server](#5-#-How-To-Install-Apache-Server)
+[5 # How To Install Apache Server](#5)
 
-[6 # How To Install Laravel](#6-#-How-To-Install-Laravel)
+[6 # How To Install Laravel](#6)
 
 ###############################
 # 1
 
 # How To Install PHP 8.3
-
 ###############################
 
 sudo add-apt-repository ppa:ondrej/php
