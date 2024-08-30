@@ -1,6 +1,6 @@
 [1 # How To Install PHP 8.3](#-1-how-to-install-php-83)
 
-[2 # How To Install Composer](#2-#-How-To-Install-Composer)
+[2 # How To Install Composer](#2-how-to-install-composer)
 
 [3 # MySQL Installation guide](#3-#-MySQL-Installation-guide)
 
