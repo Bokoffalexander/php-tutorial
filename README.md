@@ -13,7 +13,7 @@
 ###############################
 # 1
 
-# 1-# How To Install PHP 8.3
+# How To Install PHP 8.3
 
 ###############################
 
@@ -32,7 +32,9 @@ sudo systemctl restart apache2
 
 ###############################
 
-# 2 # How To Install Composer
+# 2
+
+# How To Install Composer
 
 ###############################
 
