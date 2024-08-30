@@ -1,4 +1,4 @@
-[1 # How To Install PHP 8.3](#-1-how-to-install-php-8.3)
+[1 # How To Install PHP 8.3](#-1-how-to-install-php-83)
 
 [2 # How To Install Composer](#2-#-How-To-Install-Composer)
 
