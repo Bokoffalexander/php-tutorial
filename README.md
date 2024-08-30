@@ -1,4 +1,4 @@
-[1 # How To Install PHP 8.3](#-1-how-to-install-php-83)
+[1 # How To Install PHP 8.3](#-1)
 
 [2 # How To Install Composer](#2-how-to-install-composer)
 
@@ -11,6 +11,7 @@
 [6 # How To Install Laravel](#6-#-How-To-Install-Laravel)
 
 ###############################
+#-1
 
 #-1-# How To Install PHP 8.3
 
